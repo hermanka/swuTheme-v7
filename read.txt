@@ -1,0 +1,8 @@
+Cara Setting Theme swuv7
+1. Import tabel db swu_slider
+2. Buat Page ie, set template ke IE warning
+3. Buat greeting pada widget Sidebar Kiri Besar
+
+	 <div class="large-9 medium-8 columns"><p>SWU berkomitmen untuk menyediakan lulusan terbaik bagi setiap industri maupun pada semua lini pekerjaan. Untuk mencapai standar internasional dalam memberikan pendidikan dan standar industri dalam praktek, kami terus melakukan upaya terbaik menyediakan fasilitas dan materi kursus untuk proses pembelajaran yang menuju keberhasilan dan kesuksesan.<br><i>Muh Sofi'i, S.E., M.Si. - Manajer Operasional</i></p>
+	 </div><div class="large-3 medium-4 columns greeting"><img src="http://swu.ac.id/files/2015/01/manajemen.jpg" /></div>
+4. Setting pada SWU Option, GREY Box dan Slider
